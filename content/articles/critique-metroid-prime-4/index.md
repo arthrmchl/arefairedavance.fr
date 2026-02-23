@@ -5,8 +5,8 @@ date: 2026-02-09
 # aliases= ["/first"]
 tags: ["jeu-vidéo", "critique"]
 author: "losbang"
-description: "Retour d'expérience sur Metroid Prime 4: Beyond"
-canonicalURL: "https=//canonical.url/articles/critique-metroid-prime-4/"
+description: "Que donne Metroid Prime 4 après ses 8 ans de développement ?"
+canonicalURL: "https://arefairedavance.fr/articles/critique-metroid-prime-4/"
 cover:
     image: "images/hero.jpg" # image path/url
     alt: "Key art de Metroid Prime 4: Beyond" # alt text

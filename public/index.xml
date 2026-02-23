@@ -11,21 +11,14 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Feb 2026 17:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>retour sur les Saisons Hanabi 2026</title>
-      <link>http://localhost:1313/podcast/saisons-hanabi-2026/</link>
-      <pubDate>Sun, 22 Feb 2026 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/podcast/saisons-hanabi-2026/</guid>
-      <description>C&amp;#39;est l&amp;#39;heure de la reprise !</description>
-    </item>
     <item>
       <title>la médiocrité en prime</title>
       <link>http://localhost:1313/articles/critique-metroid-prime-4/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/critique-metroid-prime-4/</guid>
-      <description>Retour d&amp;#39;expérience sur Metroid Prime 4: Beyond</description>
+      <description>Que donne Metroid Prime 4 après ses 8 ans de développement ?</description>
     </item>
   </channel>
 </rss>

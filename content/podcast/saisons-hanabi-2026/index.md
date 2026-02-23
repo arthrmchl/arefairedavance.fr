@@ -1,12 +1,12 @@
 ---
 title: "retour sur les Saisons Hanabi 2026"
-date: 2026-02-22T17:00:00+01:00
+date: 2026-02-25T17:00:00+01:00
 # weight= 1
 # aliases= ["/first"]
 tags: ["cinéma", "critique", "podcast"]
 author: "losbang"
 description: "C'est l'heure de la reprise !"
-canonicalURL: "https=//canonical.url/to/page"
+canonicalURL: "https://arefairedavance.fr/podcast/saisons-hanabi-2026/"
 ---
 
 {{< podcloud episode="retour-sur-les-saisons-hanabi-2026" >}}

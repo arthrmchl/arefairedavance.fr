@@ -3,27 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cin%C3%A9ma/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/critique/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/podcast/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/podcast/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/podcast/saisons-hanabi-2026/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-22T17:00:00+01:00</lastmod>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/critique/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/jeu-vid%C3%A9o/</loc>
@@ -32,6 +17,11 @@
     <loc>http://localhost:1313/articles/critique-metroid-prime-4/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/podcast/</loc>
   </url>
 </urlset>
