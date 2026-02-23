@@ -82,6 +82,8 @@ params:
   socialIcons:
     - name: bluesky
       url: "https://bsky.app/profile/arefairedavance.fr"
+    - name: deezer
+      url: "https://bsky.app/profile/arefairedavance.fr"
 
   analytics:
     google:

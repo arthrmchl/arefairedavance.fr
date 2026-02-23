@@ -1,18 +1,18 @@
-+++
-title= "la médiocrité en prime"
-date= 2026-02-09
+---
+title: "la médiocrité en prime"
+date: 2026-02-09
 # weight= 1
 # aliases= ["/first"]
-tags= ["jeu-vidéo", "critique"]
-author= "losbang"
-description= "Retour d'expérience sur Metroid Prime 4: Beyond"
-canonicalURL= "https=//canonical.url/articles/critique-metroid-prime-4/"
-[cover]
-    image = "images/hero.jpg" # image path/url
-    alt= "Key art de Metroid Prime 4: Beyond" # alt text
-    relative= false # when using page bundles set this to true
-    hidden= false # only hide on current single page
-+++
+tags: ["jeu-vidéo", "critique"]
+author: "losbang"
+description: "Retour d'expérience sur Metroid Prime 4: Beyond"
+canonicalURL: "https=//canonical.url/articles/critique-metroid-prime-4/"
+cover:
+    image: "images/hero.jpg" # image path/url
+    alt: "Key art de Metroid Prime 4: Beyond" # alt text
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 
 *Metroid Prime 4: Beyond* est un jeu d'une beauté indéniable. Techniquement, c'est une prouesse. Le *framerate* est d'une solidité à toute épreuve, peu importe ce qui se passe à l'écran, et la finesse graphique impressionne pour du matériel Nintendo. Les décors, surtout, sont sublimes. Chaque première arrivée dans une nouvelle zone est un véritable moment d'émerveillement. On s'arrête, on regarde, on absorbe. Ces instants-là fonctionnent. Le gameplay, lui, fait le travail. C'est du Metroid Prime, ça se joue bien, c'est précis, c'est agréable. Rien de nouveau sous le soleil, mais la base est solide.
 
