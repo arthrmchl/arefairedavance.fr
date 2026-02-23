@@ -1,4 +1,4 @@
-baseURL: "https://arefairedavance.fr/"
+baseURL: "https://arefairedavance.netlify.app"
 title: à refaire d'avance
 paginate: 5
 theme: PaperMod
