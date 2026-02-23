@@ -1,4 +1,4 @@
-baseURL: "https://arefairedavance.netlify.app"
+baseURL: "https://arefairedavance.fr"
 title: à refaire d'avance
 paginate: 5
 theme: PaperMod
@@ -25,11 +25,12 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light, auto
   disableThemeToggle: false
+  mainSections: ["articles", "podcast"]
 
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -76,6 +77,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: Explorer la richesse de la culture.
+    Content: "Un podcast et un blog où l'on creuse ce que la culture populaire nous fait ressentir. Films, musique, jeux vidéo : moins de critiques, plus de conversations sincères."
 
   socialIcons:
     - name: bluesky

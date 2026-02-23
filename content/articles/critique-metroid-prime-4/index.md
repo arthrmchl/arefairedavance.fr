@@ -5,23 +5,8 @@ date= 2026-02-09
 # aliases= ["/first"]
 tags= ["jeu-vidéo", "critique"]
 author= "losbang"
-showToc= true
-TocOpen= false
-draft= false
-hidemeta= false
-comments= false
 description= "Retour d'expérience sur Metroid Prime 4: Beyond"
 canonicalURL= "https=//canonical.url/articles/critique-metroid-prime-4/"
-disableHLJS= true # to disable highlightjs
-disableShare= false
-hideSummary= false
-searchHidden= true
-ShowReadingTime= false
-ShowBreadCrumbs= true
-ShowPostNavLinks= true
-ShowWordCount= false
-ShowRssButtonInSectionTermList= true
-UseHugoToc= true
 [cover]
     image = "images/hero.jpg" # image path/url
     alt= "Key art de Metroid Prime 4: Beyond" # alt text

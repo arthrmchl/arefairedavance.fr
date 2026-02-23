@@ -28,6 +28,13 @@
       <description></description>
     </item>
     <item>
+      <title>Podcast</title>
+      <link>http://localhost:1313/tags/podcast/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/podcast/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Jeu-Vidéo</title>
       <link>http://localhost:1313/tags/jeu-vid%C3%A9o/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
