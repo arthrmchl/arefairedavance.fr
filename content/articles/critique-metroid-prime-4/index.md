@@ -1,16 +1,16 @@
 ---
-title: "la médiocrité en prime"
+title: "Metroid Prime 4: Beyond"
 date: 2026-02-09
 # weight= 1
 # aliases= ["/first"]
 tags: ["jeu-vidéo", "critique"]
 author: "losbang"
-description: "Que donne Metroid Prime 4 après ses 8 ans de développement ?"
+description: "Au-delà de tout espoir"
 canonicalURL: "https://arefairedavance.fr/articles/critique-metroid-prime-4/"
 cover:
     image: "images/hero.jpg" # image path/url
     alt: "Key art de Metroid Prime 4: Beyond" # alt text
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 

@@ -20,10 +20,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: à refaire d'avance
   description: "Explorer la richesse de la culture."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [culture, cinéma, jeux vidéo, podcast, critique]
   author: losbang
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/hero.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false
@@ -79,11 +79,13 @@ params:
     Title: Explorer la richesse de la culture.
     Content: "Un podcast et un blog où l'on creuse ce que la culture populaire nous fait ressentir. Films, musique, jeux vidéo..."
 
-  socialIcons:
-    - name: bluesky
-      url: "https://bsky.app/profile/arefairedavance.fr"
-    #- name: deezer
-    #  url: "https://bsky.app/profile/arefairedavance.fr"
+  #socialIcons:
+  #  - name: bluesky
+  #    url: "https://bsky.app/profile/arefairedavance.fr"
+  #  - name: deezer
+  #    url: "https://www.deezer.com/fr/show/1002700701"
+  #  - name: rss
+  #    url: "https://arefairedavance.lepodcast.fr/rss"
 
   analytics:
     google:
