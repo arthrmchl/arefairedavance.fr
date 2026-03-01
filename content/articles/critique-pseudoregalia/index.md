@@ -3,6 +3,7 @@ title: "Pseudoregalia"
 date: 2026-03-01T20:00:00+01:00
 tags: ["jeu-vidéo", "critique"]
 author: "losbang"
+summary: "Du cœur à l'intérieur"
 description: "Du cœur à l'intérieur"
 canonicalURL: "https://arefairedavance.fr/articles/critique-pseudoregalia/"
 cover:

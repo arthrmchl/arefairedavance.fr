@@ -6,6 +6,7 @@ date: 2026-02-25T17:00:00+01:00
 tags: ["cinéma", "critique", "podcast"]
 author: "losbang"
 description: "C'est l'heure de la reprise !"
+summary: "C'est l'heure de la reprise !"
 canonicalURL: "https://arefairedavance.fr/podcast/saisons-hanabi-2026/"
 ---
 
