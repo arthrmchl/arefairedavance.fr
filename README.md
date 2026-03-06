@@ -1,4 +1,5 @@
 # arefairedavance.fr
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7994371a-80d0-4631-bfaa-79d0ad515065/deploy-status)](https://app.netlify.com/projects/arefairedavance/deploys)
 
 Repository du site **à refaire d’avance**, un blog consacré à la critique culturelle : cinéma, jeux vidéo et podcast.
 
