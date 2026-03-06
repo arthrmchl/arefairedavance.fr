@@ -1,9 +1,9 @@
 baseURL: "https://arefairedavance.fr"
-title: à refaire d'avance
+title: "à refaire d'avance"
 paginate: 5
-theme: PaperMod
-languageCode: fr
-defaultContentLanguage: fr
+theme: "PaperMod"
+languageCode: "fr"
+defaultContentLanguage: "fr"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,17 +17,23 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: à refaire d'avance
+  env: "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "à refaire d'avance"
   description: "Explorer la richesse de la culture."
-  keywords: [culture, cinéma, jeux vidéo, podcast, critique]
-  author: losbang
-  # author: ["Me", "You"] # multiple authors
+  keywords:
+    - "culture"
+    - "cinéma"
+    - "jeux vidéo"
+    - "podcast"
+    - "critique"
+  author: "losbang"
   images: ["/hero.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light, auto
   disableThemeToggle: false
-  mainSections: ["articles", "podcast"]
+  mainSections: 
+    - "articles"
+    - "podcast"
 
   ShowReadingTime: false
   ShowShareButtons: false
