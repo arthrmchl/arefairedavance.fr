@@ -4,7 +4,7 @@ date: 2026-02-09
 # weight= 1
 # aliases= ["/first"]
 tags: ["jeu-vidéo", "critique"]
-author: "losbang"
+author: "Losbang"
 summary: "Au-delà de tout espoir"
 description: "Au-delà de tout espoir"
 canonicalURL: "https://arefairedavance.fr/articles/critique-metroid-prime-4/"
